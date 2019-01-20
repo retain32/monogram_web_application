@@ -1,0 +1,18 @@
+body {
+
+    font-family: 'Helvetica'
+
+}
+
+#wrapper {
+
+    padding: 1em;
+    background-color: #eeeeee;
+
+}
+
+#image_result {
+
+    margin: 1em;
+    width: 30em;
+}
